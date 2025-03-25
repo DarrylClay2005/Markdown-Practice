@@ -9,4 +9,4 @@ VS Code MarkDown Practice
 
 ### A Locally Hosted Image
 
-!A [A Profile Image] ("C:\Users\heave\OneDrive\Pictures\Memes\89th.gif")
+!A [A Profile Image] 
