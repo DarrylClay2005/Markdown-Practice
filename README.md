@@ -1,13 +1,23 @@
-# Markdown-Practice
+# Project Title
 
-VS Code MarkDown Practice
+## Description
 
-## A doc to help practice Markdown Code
+My App Is A Replacement Server For Youtube!
 
-### Use This System To Make Bold Text
+## Features
 
-- unordered lists are made with - or \*
+- Able To Use My Services As A Backup Server
+- You Won't Be Charged To Download Videos
+- No Ads
 
-### A Locally Hosted Image
+## How It Works
 
-!A [A Profile Image] <a href="https://y.yarn.co/7050717c-9f85-44fc-bd12-122f99dc9d1e_text.gif">Favorite Meme i found</a>
+All You Need To Get Set Up Is A Google Account And 25 Minutes Of Your Time!
+
+## Author(s)
+
+- [Darryl Clay](https://github.com/DarrylClay2005)
+
+## image
+
+![Unreadable Code](image.png)
